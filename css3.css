@@ -1,17 +1,4 @@
- * {
-  box-sizing: border-box;
-  margin: 0px;
-  padding: 0px;
-  font-family: "Gill Sans", sans-serif;
-}
- body 
-      {
-        font-family: 'Bitter', serif;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        background-size: cover;
-        -o-background-size: cover;
-      }
+
 
     #header,.navbar-header
 {
